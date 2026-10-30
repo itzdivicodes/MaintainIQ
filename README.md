@@ -2,6 +2,8 @@
 
 **Explainable AI Framework for Industrial Asset Health Intelligence and Maintenance Decision Support**
 
+Youtube : https://youtu.be/82d4tuRMw7I
+
 ## Overview
 
 MaintainIQ is an end-to-end platform that combines MongoDB-native time-series storage, LSTM Autoencoder anomaly detection, progressive degradation modeling, SHAP-based explainability, and natural language querying into a unified industrial asset health intelligence system.
